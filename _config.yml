@@ -1,7 +1,7 @@
 name: ckthing
 favicon: null
 layout_spectrum: 0.4162995961960405
-typography_spectrum: 0.08332883659750223
+typography_spectrum: 0.24089
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.7731422577053308
-  lightness: 0.4701977064833045
-  saturation: 0.8937559644691646
-  rhythmicContrast: 0.6806093268096447
+    - '#000000'
+    - '#ffffff'
+    - '#55d400'
+    - '#338000'
+    - '#c9c9c9'
+  brandStrength: 0.75
+  lightness: 0.125
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose: []
